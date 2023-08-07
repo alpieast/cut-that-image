@@ -24,7 +24,14 @@ cd cut-that-image
 npm install
 ```
 
-4-) Go to browser
+4-) Run the development server:
+
+```bash
+npm run dev
+
+```
+
+5-) Go to browser
 
 http://localhost:3000/
 

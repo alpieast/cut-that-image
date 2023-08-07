@@ -171,7 +171,7 @@ export default function ImageCropper() {
           </Grid>
           <Grid item xs={8}>
             <Button
-              onClick={() => setScale(1)}
+              onClick={() => setRotate(0)}
               variant="contained"
               disabled={!imgSrc}
             >

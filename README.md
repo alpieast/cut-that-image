@@ -1,5 +1,5 @@
 ## Image Cropper
-This is a React component for an image cropping tool built using Next.js and the react-image-crop library. This component allows users to upload an image, crop it, adjust its scale and rotation, and then download the cropped image.
+This is a simple website for an image cropping built using Next.js and the [react-image-crop](https://github.com/DominicTobias/react-image-crop)  library created by [@DominicTobias](https://www.github.com/DominicTobias). This website allows users to upload an image, crop it, adjust its scale and rotation, and then download the cropped image.
 
 Live demo on: https://alpieast.github.io/cut-that-image/
 
